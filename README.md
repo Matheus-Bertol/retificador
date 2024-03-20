@@ -5,15 +5,17 @@ Retificador feito para a aula de Sistemas Embarcados na aula do Prof. Rafael Bar
 ![image](https://github.com/Matheus-Bertol/retificador/assets/141282448/b684e2cc-023d-43ac-9e8f-9c221495c87f)
 ![image](https://github.com/Matheus-Bertol/retificador/assets/141282448/a389a264-14ff-4aa1-8802-5a88434e3ecc)
 
-## Funcionamento do Retificador
+## Funcionamento de Retificador
 
+Um retificador é um componente usado para converter corrente alternada para corrente contínua. Pode-se citar como exemplo um carregador de celular. 
+O processo permite que dispositivos eletrônicos operem com uma fonte de energia estável e previsível, através da ponte retificadora, que "força" com que a corrente só passe através de uma direção.
+ 
 - **Entrada de CA (J1)**: A corrente alternada entra no circuito.
 - **Retificador de Ponte (BR1)**: Converte a CA em CC pulsante, sempre positiva.
 - **Filtro de Capacitor (C1 - 1000uF)**: Suaviza a CC pulsante para diminuir as variações.
 - **Regulador de Tensão (U1 - 7805)**: Estabiliza a tensão de saída em 5 volts.
 - **Filtros Adicionais (C2 e C3 - 22nF)**: Removem ruídos de alta frequência.
 - **Indicador de Saída (D1 - LED com R1 - 130Ω)**: Mostra se a tensão está presente.
-- 
 Basicamente, o circuito transforma corrente alternada em corrente contínua estável, com um LED como indicador de funcionamento.
 
 # Aulas do do 05/03 e 12/03
@@ -24,3 +26,5 @@ Basicamente, o circuito transforma corrente alternada em corrente contínua est�
 ## 3D 05/03
 ![image](https://github.com/Matheus-Bertol/retificador/assets/141282448/63423f6c-0403-483d-bae8-ba787c23f929)
 ## Simulação 12/03
+![image](https://github.com/Matheus-Bertol/retificador/assets/141282448/610808f4-8756-4200-8947-ad10104d96a4)
+![image](https://github.com/Matheus-Bertol/retificador/assets/141282448/7d1bc1dc-c001-4979-893c-85e5fcb976ef)
