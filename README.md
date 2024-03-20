@@ -15,11 +15,11 @@ O processo permite que dispositivos eletrônicos operem com uma fonte de energia
 - **Indicador de Saída (D1 - LED com R1 - 130Ω)**: Mostra se a tensão está presente.
 Basicamente, o circuito transforma corrente alternada em corrente contínua estável, com um LED como indicador de funcionamento.
 
-
+## SIMULAÇÃO
 ![image](https://github.com/Matheus-Bertol/retificador/assets/141282448/2ba4a286-ce01-414a-92a9-d435b57887e6)
 ## Prototipagem
 ![image](https://github.com/Matheus-Bertol/retificador/assets/141282448/63b59b27-76a4-4874-a939-3ff104c05b53)
-## pcb
-![image](https://github.com/Matheus-Bertol/retificador/assets/141282448/a389a264-14ff-4aa1-8802-5a88434e3ecc)
-## 3D
+## PCB
 ![image](https://github.com/Matheus-Bertol/retificador/assets/141282448/b684e2cc-023d-43ac-9e8f-9c221495c87f)
+## 3D
+![image](https://github.com/Matheus-Bertol/retificador/assets/141282448/a389a264-14ff-4aa1-8802-5a88434e3ecc)
